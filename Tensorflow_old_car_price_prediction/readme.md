@@ -1,8 +1,8 @@
 # Tensorflow for old car price prediction
 ## Objective:
 The aim of this project is to use a dataset of used cars and create a regression model that predicts the price of the car given the input data of those cars.
-## Model used:
-I used deep learning neural networks to solve this problem using the TensorFlow framework and Keras API. The steps followed to achieve the trained model to predict the car prices were as followed:
+## Technique used:
+There are different ways to solve this problem using Machine learning algorithms but I used deep learning neural networks to solve this problem using the TensorFlow framework and Keras API. The steps followed to achieve the trained model to predict the car prices were as followed:
   1. Importing the necessary packages
   2. Data Preparation and preprocessing( Converting the .csv to tensor and then creating train, validation and test set)
   3. Creating the model using Keras Sequential API
